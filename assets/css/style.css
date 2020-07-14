@@ -14,6 +14,11 @@
     color:#fff;
     padding:20px;
     }
+
+    /* .background-img {
+        height: 400px;
+        width: 100%;
+    } */
     
     .header h1 {
     display:inline-block;
@@ -41,12 +46,12 @@
     margin-left:25px;
     }
     
-    a {
+    .header a {
     color:#fff;
     text-decoration:none;
     }
     
-    p {
+    .hero p {
     font-size:16px;
     }
     
@@ -86,16 +91,7 @@
     padding:20px;
     }
     
-    .footer {
-    clear:both;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align:center;
-    padding:30px;
-    }
-    
-    .footer h2 {
-    font-size:20px;
-    }
+   
     
     .benefit-lead,.benefit-brand,.benefit-cost {
     margin-bottom:32px;
@@ -130,3 +126,14 @@
     margin-bottom:20px;
     font-size:36px;
     }
+
+    .footer {
+        clear:both;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align:center;
+        padding:30px;
+        }
+        
+        .footer h2 {
+        font-size:20px;
+        }
